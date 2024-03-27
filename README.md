@@ -1,1 +1,1 @@
-# 100DaysOfCode
+# LeetCode Learning Journey
