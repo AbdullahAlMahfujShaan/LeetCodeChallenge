@@ -17,9 +17,6 @@ This project, `LeetCodeChallenge`, is a comprehensive collection of my solutions
   - [👨‍💻 How to Use](#-how-to-use)
   - [🔍 Challenges Covered](#-challenges-covered)
   - [🛠 Built With](#-built-with)
-  - [🤝 Contributing](#-contributing)
-  - [📝 License](#-license)
-  - [📫 Contact](#-contact)
   - [🎉 Acknowledgements](#-acknowledgements)
 
 ## ✨ Features
@@ -27,9 +24,26 @@ This project, `LeetCodeChallenge`, is a comprehensive collection of my solutions
 - **Detailed Solutions:** Every challenge comes with a fully explained solution.
 - **Optimization:** Discussion on optimizing the solutions for better performance.
 
+  
+## 👨‍💻 How to Use
+Dive into the solutions:
+- Navigate to the Solutions directory.
+- Choose a challenge of interest.
+
+## 🔍 Challenges Covered
+- I will publish the list later
+## 🛠 Built With
+- **Programming Language:** Python
+- **Editor:** Visual Studio Code
+- **Additional Tools:** Nothing Yet
+
+## 🎉 Acknowledgements
+-   **LeetCode** for providing a vast array of challenges to improve my coding skills.
+
 ## 🔧 Installation
 
 To clone this repository, run:
 
 ```bash
 git clone https://github.com/AbdullahAlMahfujShaan/LeetCodeChallenge.git
+
